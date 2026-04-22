@@ -1,0 +1,2 @@
+product: Bread | Price : P90.00 |  stock: Mid-range | category: 15 | status: Ok |
+product: Banana Tree | Price : P100.00 |  stock: Mid-range | category: 2 | status: LOW-stock - reorder needed |

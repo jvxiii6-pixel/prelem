@@ -1,2 +1,0 @@
-First name: mark jv | last name: castillano | grade: 90 | letter_grade: A | status: passed |
-First name: kim | last name: chan | grade: 100 | letter_grade: A | status: passed |
